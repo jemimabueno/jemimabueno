@@ -14,8 +14,11 @@
   <img align="center" alt="jemima-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <!-- <img align="center" alt="jemima-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">!-->
   <img align="center" alt="jemima-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="jemima-pic" src="https://cdn.discordapp.com/attachments/998188340744568884/998188493505302590/Design_sem_nome.gif">
+  <img align="right"  alt="jemima-pic" src="https://cdn.discordapp.com/attachments/998192985713946667/998193043473711114/Design_sem_nome.gif">
 </div>
   
  ##
-  
+  <div> 
+ <a href="https://discord.gg/wagxzStdcR](https://discord.com/channels/@me/998188340744568884" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jemima-bueno-612821a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
