@@ -1,5 +1,5 @@
-### Olá,eu sou a Jemima 👧
-## Sou graduanda em Eng. da Computação e sou Técnica em Desenvolvimento de Sistemas. 💻💻
+### Olá, eu sou a Jemima 👧
+ Sou graduanda em Eng. da Computação e sou Técnica em Desenvolvimento de Sistemas. 💻💻
 
 <div align="center">
   <a href="https://github.com/jemimabueno">
