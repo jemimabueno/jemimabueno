@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá eu sou a Jemima 👧
+## Sou graduanda em Eng. da Computação e sou Técnica em Desenvolvimento de Sistemas. 💻💻
 
 <!--
 **jemimabueno/jemimabueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
