@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/jemimabueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jemimabueno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=jemimabueno"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jemimabueno" />
+  <img width="48%"  src="https://github.com/jemimabueno/github-readme-stats"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="jemima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
