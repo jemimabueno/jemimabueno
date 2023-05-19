@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/jemimabueno">
   <img height="260em" src="https://github-readme-stats.vercel.app/api?username=jemimabueno"/>
-  <img width="290em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemimabueno" />
+  <img width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemimabueno" />
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="jemima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
