@@ -15,7 +15,7 @@
   <img align="center" alt="jemima-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <!-- <img align="center" alt="jemima-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">!-->
   <img align="center" alt="jemima-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="jemima-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998188340744568884/998222816358965268/meupers2.png">
+  <img align="right" alt="jemima-pic" height="130" style=border-radius:50px src="https://cdn.discordapp.com/attachments/998188340744568884/998222816358965268/meupers2.png">
 </div>
   
  ##
