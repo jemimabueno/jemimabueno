@@ -1,6 +1,7 @@
 ### Olá, eu sou a Jemima 👧
  Sou graduanda em Eng. da Computação e sou Técnica em Desenvolvimento de Sistemas. 💻💻
 
+
 <div align="center">
   <a href="https://github.com/jemimabueno">
   <img height="235em" src="https://github-readme-stats.vercel.app/api?username=jemimabueno&layout=compact&show_icons=true&theme=radical"/>
